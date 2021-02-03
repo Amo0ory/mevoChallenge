@@ -1,0 +1,22 @@
+[
+    {
+    "city":"Wellington",
+    "latitude":-41.2924,
+    "longitude":174.7787
+    },
+    {
+    "city":"Auckland",
+    "latitude": -36.848461,
+    "longitude": 174.763336
+    },
+    {
+        "city":"Christchurch",
+        "latitude":-43.525650,
+        "longitude":172.639847
+    },
+    {
+        "city":"Queenstown",
+        "latitude":-45.0302,
+        "longitude":168.6615
+    }
+]
